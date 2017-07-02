@@ -8,8 +8,8 @@ This repo is to track the status of the gathering.
 * Mozilla style-guide for l10n
 * Communication Channels
 
-##Rules to join [Telugu l10n meetup](https://reps.mozilla.org/e/telugu-community-meetup-2017/)
-</b> We prefer Quality over Quantity in translations </b>
+## Rules to join [Telugu l10n meetup](https://reps.mozilla.org/e/telugu-community-meetup-2017/)
+** We prefer Quality over Quantity in translations
 * Raise event related issues
 * Contribute to any of the [pending projects](https://pontoon.mozilla.org/te/)
 * Heads up to submit a PR with [your details (here)](/prerequisites.md) and let the l10n team be notified about your amazing work.
@@ -31,8 +31,8 @@ This repo is to track the status of the gathering.
 ## Community Channels: 
 * Subscribe to dev-l10n [mailing list](https://lists.mozilla.org/listinfo/dev-l10n)
 * Join our group [Mozilla Telugu Channel](https://t.me/joinchat/AAAAAEFQaXicCPeaeVIm_Q)
-* [Foss Telugu Channel](**)
-* [l10n Blog](http://blog.mozilla.org/l10n/)
+* Join [Foss Telugu Channel](**)
+* Get regular updates from [l10n Blog](http://blog.mozilla.org/l10n/)
 
 
 
