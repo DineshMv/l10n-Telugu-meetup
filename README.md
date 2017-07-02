@@ -1,4 +1,4 @@
-# [Mozilla Telugu l10n meetup] (https://reps.mozilla.org/e/telugu-community-meetup-2017/)
+# [Mozilla Telugu l10n meetup](https://reps.mozilla.org/e/telugu-community-meetup-2017/)
 
 This repo is to track the status of the gathering.
 
@@ -8,7 +8,7 @@ This repo is to track the status of the gathering.
 * Mozilla style-guide for l10n
 * Communication Channels
 
-##Rules to join [Telugu l10n meetup] (https://reps.mozilla.org/e/telugu-community-meetup-2017/)
+##Rules to join [Telugu l10n meetup](https://reps.mozilla.org/e/telugu-community-meetup-2017/)
 </b> We prefer Quality over Quantity in translations </b>
 * Raise event related issues
 * Contribute to any of the [pending projects](https://pontoon.mozilla.org/te/)
@@ -22,16 +22,16 @@ This repo is to track the status of the gathering.
 * Official Documentation to start [localizing/testing a project](https://mozilla-l10n.github.io/localizer-documentation/)
 * [mozilla l10n Style-guide](https://developer.mozilla.org/en-US/docs/L10n_Style_Guide)
 * Check out our work on [l10n Dashboard](https://l10n.mozilla-community.org/webdashboard/?locale=te)
-* [Transvision] (https://transvision.mozfr.org/) is a tool used by the Mozilla Community to search translations extracted from products and websites. 
+* [Transvision](https://transvision.mozfr.org/) is a tool used by the Mozilla Community to search translations extracted from products and websites. 
 * Typing Tools:
-	<li><ul>[lekhini](http://lekhini.org/)</li></ul>
-	<li><ul>[Azhagi](http://www.azhagi.com/sai/plus/AzhagiPlus-Setup.zip)</li></ul>
-	<li><ul> Indic keyboards </ul></li> 	
+	[lekhini](http://lekhini.org/)
+	[Azhagi](http://www.azhagi.com/sai/plus/AzhagiPlus-Setup.zip)
+	other Indic keyboards	
 
 ## Community Channels: 
-* Subscribe to dev-l10n [mailing list] (https://lists.mozilla.org/listinfo/dev-l10n)
+* Subscribe to dev-l10n [mailing list](https://lists.mozilla.org/listinfo/dev-l10n)
 * Join our group [Mozilla Telugu Channel](https://t.me/joinchat/AAAAAEFQaXicCPeaeVIm_Q)
-* [Foss Telugu Channel] (**)
+* [Foss Telugu Channel](**)
 * [l10n Blog](http://blog.mozilla.org/l10n/)
 
 
