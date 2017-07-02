@@ -31,7 +31,7 @@ This repo is to track the status of the gathering.
 ## Community Channels: 
 * Subscribe to dev-l10n [mailing list](https://lists.mozilla.org/listinfo/dev-l10n)
 * Join our group [Mozilla Telugu Channel](https://t.me/joinchat/AAAAAEFQaXicCPeaeVIm_Q)
-* Join [Foss Telugu Channel](**)
+* Join [Foss Telugu Channel](https://t.me/joinchat/A7ca0D_YI7PFmpwWvbDV6g)
 * Get regular updates from [l10n Blog](http://blog.mozilla.org/l10n/)
 
 
