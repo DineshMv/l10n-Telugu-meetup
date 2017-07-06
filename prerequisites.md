@@ -5,7 +5,7 @@ If you are a new contributor to mozilla localization, Heads up to submit a PR wi
 | --------------- | ---------------------------------------- |
 | Dinesh          |  [Firefox, Firefox for beta, MDN, SUMO, Firefox for iOS..etc](https://pontoon.mozilla.org/contributors/wy1NhZ4Lovxh4YbS2BIiohmiS9c/)|
 | Ranjith         | [Firefox, Firefox for beta, ..etc](https://pontoon.mozilla.org/contributors/hAhU2OLVAps6ywEH3y4bTZHbtYY/) |
-| sahithi         | [Firefox, Firefox for beta, ..etc](https://pontoon.mozilla.org/contributors/bJUiQyURz0Uy1TaAMu_RiXVxSz8/) |
+| sahithi         | [Firefox, Firefox for beta,Mozilla Advocacy,MDN ..etc](https://pontoon.mozilla.org/contributors/bJUiQyURz0Uy1TaAMu_RiXVxSz8/) |
 | <i>Your Name</i>       | <i>[Contributed project](URL)</i> |
 
 
